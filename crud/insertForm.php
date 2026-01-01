@@ -17,7 +17,7 @@
 <body>
     <div class="container mt-5">
     <h2 class="text-center">บันทึกข้อมูลพนักงาน</h2>
-    <form action="showData.php" method="POST">
+    <form action="showdata.php" method="POST">
         <div class="form-group my-3">
             <label for="fistname" class="fs-4">ชื่อ</label>
             <input type="text" name="fname" class="form-control">
@@ -45,4 +45,5 @@
 
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.min.js" integrity="sha384-7qAoOXltbVP82dhxHAUje59V5r2YsVfBafyUDxEdApLPmcdhBPg1DKg1ERo0BZlK" crossorigin="anonymous"></script>
+
 </html>
